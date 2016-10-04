@@ -1,0 +1,9 @@
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\bin\Debug\pingServer.exe.config
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\bin\Debug\pingServer.exe
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\bin\Debug\pingServer.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.csprojResolveAssemblyReference.cache
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.Form1.resources
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.Properties.Resources.resources
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.csproj.GenerateResource.Cache
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.exe
+c:\users\facundo\documents\visual studio 2015\Projects\pingServer\pingServer\obj\Debug\pingServer.pdb
